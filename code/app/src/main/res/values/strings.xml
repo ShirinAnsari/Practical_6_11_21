@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ShirinAnsariPracticalApp</string>
+
+    <string name="user_detail">user_detail</string>
+    <string name="internet_error">Please connect to internet</string>
+    <string name="str_user_name">%1$s %2$s</string>
+    <string name="str_user_name_detail">%1$s %2$s %3$s</string>
+    <string name="str_user_location">%1$s, %2$s, %3$s</string>
+    <string name="str_email">Email : %1$s</string>
+    <string name="str_phone">Phone : %1$s</string>
+    <string name="str_gender">Gender : %1$s</string>
+    <string name="str_street">Street : %1$s</string>
+    <string name="str_city">City : %1$s</string>
+    <string name="str_state">State : %1$s</string>
+    <string name="str_country">Country : %1$s</string>
+    <string name="str_postcode">PostCode : %1$s</string>
+</resources>
